@@ -133,7 +133,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [bpkg](https://github.com/bpkg/bpkg) - A lightweight bash package manager.
-- [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
+- [homeshick](https://github.com/andsens/homeshick) - git dotfile synchronizer written in Bash.
 
 ## Shell Script Development
 
