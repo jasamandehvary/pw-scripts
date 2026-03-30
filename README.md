@@ -83,7 +83,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 ## For Developers
 
-*Command-line development, version control, and deployment.*
+*Command-line development, version control and deployment.*
 
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash.
 - [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
