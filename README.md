@@ -91,7 +91,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 ## Downloading and Serving
 
-*Self-hosted, lightweight servers and networking tools written in shell scripts.*
+*Self hosted, lightweight servers and networking tools written in shell scripts.*
 
 - [Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc.
 - [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox.
